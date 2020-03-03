@@ -1,4 +1,5 @@
 window.addEventListener('load', function () {
+  console.log('loaded');
   var x = document.getElementById("closestGym");
   var data = [
     {
